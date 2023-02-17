@@ -2,8 +2,6 @@
   
 # It'sa me, Vhyrro!
 
-<a href="https://paypal.me/ewaczupryna?locale.x=en_GB"> ![Paypal](https://img.shields.io/badge/support-paypal-blue?style=flat-square&logo=paypal) </a>
-
 </div>
 
 ---
